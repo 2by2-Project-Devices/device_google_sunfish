@@ -4,7 +4,7 @@
 
 # AiAi
 product/priv-app/DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk;PRESIGNED
-product/priv-app/DevicePersonalizationPrebuiltPixel4/DevicePersonalizationPrebuiltPixel4.apk;PRESIGNED
+product/priv-app/DevicePersonalizationPrebuiltPixel4/DevicePersonalizationPrebuiltPixel4.apk;PRESIGNED|f8243557fafda1777e8330fa25cd3efb655671ab
 
 # Audio
 product/etc/ambient/matcher_tah.leveldb
